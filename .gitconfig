@@ -1,0 +1,6 @@
+[user]
+    name = Никита Федоров
+    email = wnikiti4@gmail.com
+
+[alias]
+    history = log --graph
